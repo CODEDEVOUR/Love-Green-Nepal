@@ -1,0 +1,50 @@
+.top{
+    background: #044404;
+}
+.top ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.top li{
+    text-decoration: none;   
+    font-size: 12px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.bg-nav{
+    background: #247C04;
+}
+.bg-nav a{
+    color: white;
+    opacity: 85%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 14px;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: #23A202;
+}
+.banner{
+    background: linear-gradient(#044404,#247C04);
+}
+.banner img{
+    height: 450px;
+    object-fit: cover;
+}
+footer{
+    background: #247C04;
+}
+.last{
+    background: #044404;
+}
+
+ 
+
+ 
